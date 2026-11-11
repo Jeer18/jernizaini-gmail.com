@@ -1,0 +1,6 @@
+{
+  "name": "Lugoss Booking Apps",
+  "description": "Sistem Tempahan Fasiliti dan Aset Sekolah Mudah Alih (SMK Lugoss)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
